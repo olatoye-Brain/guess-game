@@ -23,7 +23,7 @@ h2{
 }
 h3{
   font-size: 30px;
-  margin: 20px 0px;
+  margin-top: 20px;
   text-align: center;
   color: orange;
 }
@@ -81,4 +81,10 @@ div p{
 
 input:focus{
   outline: none;
+}
+
+.info{
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 18px;
 }
